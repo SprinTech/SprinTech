@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jvansteenkiste2@gmail.com**
 
-- 📄 Know about my experiences [I have a professional experience as Inbound Marketing Consultant (1 year) and as Data Scientist in digital agency (1 year too - Current position as block release training)]
+- 📄 Know about my experiences I have a professional experience as Inbound Marketing Consultant (1 year) and as Data Scientist in digital agency (1 year too - Current position as block release training)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
