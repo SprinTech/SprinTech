@@ -14,8 +14,9 @@
   </a>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=SprinTech&style=flat-square&color=blue" alt="GitHub views"/>
-
+<div id="stats" align="center">
+  <img src="https://komarev.com/ghpvc/?username=SprinTech&style=flat-square&color=blue" alt="GitHub views"/>
+</div>
 
 - 🔭 I’m currently working on [application that predict genre of music from Spotify music and Audio Files](https://github.com/SprinTech/sound-recognizer)
 
