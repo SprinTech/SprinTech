@@ -52,5 +52,6 @@
 ---
 <div id="stats" align="center">
   <h3>🔥 My stats:</h3>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SprinTech&show_icons=true&theme=radical)
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SprinTech)](https://github.com/anuraghazra/github-readme-stats)
+
