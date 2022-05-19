@@ -32,7 +32,7 @@
  
 ---
 <div id="tools">
-  <h3>🔧 Languages and Tools:</h3>
+  <h3>🔧 Languages and Tools :</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
@@ -51,7 +51,9 @@
 
 ---
 <div id="stats">
-  <h3>🔥 My stats:</h3>
+  <h3>🔥 My stats :</h3>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SprinTech&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SprinTech)](https://github.com/anuraghazra/github-readme-stats)
