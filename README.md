@@ -20,7 +20,7 @@
 
 ---
 <div id="about">
-<h3> About Me : <h3>
+<h3> About Me : </h3>
 - 🔭 I’m currently working on [application that predict genre of music from Spotify music and Audio Files](https://github.com/SprinTech/sound-recognizer)
 
 - 🌱 I’m currently learning **Machine Learning, React and DevOps**
