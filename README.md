@@ -49,9 +49,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SprinTech)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 <div id="stats">
   <h3>🔥 My stats:</h3>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SprinTech)](https://github.com/anuraghazra/github-readme-stats)
