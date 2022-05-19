@@ -2,7 +2,7 @@
 <h3 align="center">A data scientist enthusiast who live in France</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprintech&label=Profile%20views&color=0e75b6&style=flat" alt="sprintech" /> </p>
 
