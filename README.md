@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Julien Vansteenkiste</h1>
-<h3 align="center">A data scientist enthusiast who live in France</h3>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
@@ -18,6 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=SprinTech&style=flat-square&color=blue" alt="GitHub views"/>
 </div>
 
+<h1 align="center">Hey there👋, I'm Julien Vansteenkiste</h1>
+<h3 align="center">A data scientist enthusiast who live in France</h3>
+
+---
+<div id="about">
+I'm a data scientist enthusiast who live in Franc
+ </div>
+ 
 - 🔭 I’m currently working on [application that predict genre of music from Spotify music and Audio Files](https://github.com/SprinTech/sound-recognizer)
 
 - 🌱 I’m currently learning **Machine Learning, React and DevOps**
