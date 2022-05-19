@@ -7,10 +7,10 @@
 
 <div id="badges">
   <a href="https://linkedin.com/in/julienvansteenkiste">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://kaggle.com/julienvansteenkiste">
-    <img src="https://img.shields.io/badge/Kaggle-orange?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-orange?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
   </a>
 </div>
 
