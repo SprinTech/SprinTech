@@ -12,10 +12,10 @@
   <a href="https://kaggle.com/julienvansteenkiste">
     <img src="https://img.shields.io/badge/Kaggle-orange?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SprinTech&style=flat-square&color=blue" alt=""/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprintech&label=Profile%20views&color=0e75b6&style=flat" alt="sprintech" /> </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=SprinTech&style=flat-square&color=blue" alt="GitHub views"/>
+
 
 - 🔭 I’m currently working on [application that predict genre of music from Spotify music and Audio Files](https://github.com/SprinTech/sound-recognizer)
 
