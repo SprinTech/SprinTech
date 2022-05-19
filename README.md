@@ -20,7 +20,7 @@
 
 ---
 <div id="about">
-<h3>🙋‍♂️ About Me : </h3>
+<h3>🙋‍♂️ About Me :</h3>
 - 🔭 I’m currently working on [application that predict genre of music from Spotify music and Audio Files](https://github.com/SprinTech/sound-recognizer)
 
 - 🌱 I’m currently learning **Machine Learning, React and DevOps**
@@ -47,4 +47,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+</div>
+
+---
+<div id="stats">
+  <h3>🔥 My stats:</h3>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SprinTech&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
