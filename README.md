@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julien Vansteenkiste</h1>
 <h3 align="center">A data scientist enthusiast who live in France</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprintech&label=Profile%20views&color=0e75b6&style=flat" alt="sprintech" /> </p>
 
 - 🔭 I’m currently working on [application that predict genre of music from Spotify music and Audio Files](https://github.com/SprinTech/sound-recognizer)
