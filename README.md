@@ -16,12 +16,12 @@
 </div>
 
 <h1 align="center">Hey there👋, I'm Julien Vansteenkiste</h1>
-<h3 align="center">A data scientist enthusiast who live in France</h3>
+<h3 align="center">A data analyst enthusiast who live in France</h3>
 
 ---
 <div id="about">
   <h3>🙋‍♂️ About Me :</h3>  
-  - 🌱 I’m currently learning **Machine Learning, Vue and Elasticsearch**.
+  - 🌱 I’m currently learning **Machine Learning, Vue and Elasticsearch** .
   
   - 📫 How to reach me **jvansteenkiste2@gmail.com**
   
