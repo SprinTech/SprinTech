@@ -21,7 +21,7 @@
 ---
 <div id="about">
   <h3>🙋‍♂️ About Me :</h3>  
-  - 🌱 I’m currently learning **Machine Learning, Vue and Elasticsearch**
+  - 🌱 I’m currently learning **Machine Learning, Vue and Elasticsearch**.
   
   - 📫 How to reach me **jvansteenkiste2@gmail.com**
   
