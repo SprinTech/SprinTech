@@ -24,7 +24,7 @@
   
   - 🌱 I’m currently improving my skills with timeseries database using <strong>MongoDB</strong> and <strong>Timescale</strong>.
   
-  - Working on streaming data architecture with <strong>MQTT</strong>, <strong>Kafka</strong> and <strong>ElasticSearch.
+  - Working on streaming data architecture with <strong>MQTT</strong>, <strong>Kafka</strong> and <strong>ElasticSearch</strong>.
     
   - 📫 How to reach me **jvansteenkiste2@gmail.com**
   
