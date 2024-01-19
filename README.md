@@ -22,7 +22,7 @@
 <div id="about">
   <h3>🙋‍♂️ About Me :</h3>
   
-  - 🌱 I’m currently improving my skills with timeseries database using<strong>MongoDB</strong> and <strong>Timescale</strong>.
+  - 🌱 I’m currently improving my skills with timeseries database using <strong>MongoDB</strong> and <strong>Timescale</strong>.
   
   - 📫 How to reach me **jvansteenkiste2@gmail.com**
   
