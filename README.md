@@ -16,35 +16,28 @@
 </div>
 
 <h1 align="center">Hey there👋, I'm Julien Vansteenkiste</h1>
-<h3 align="center">A data scientist enthusiast who live in France</h3>
+<h3 align="center">Data Engineer</h3>
 
 ---
 <div id="about">
   <h3>🙋‍♂️ About Me :</h3>
   
-  - 🌱 I’m currently learning <strong>Scala, Spark and Elasticsearch<strong>.
+  - 🌱 I’m currently improving my skills with timeseries database using<strong>MongoDB</strong> and <strong>Timescale</strong>.
   
   - 📫 How to reach me **jvansteenkiste2@gmail.com**
   
-  - 📄 Know about my experiences I have a professional experience as Inbound Marketing Consultant (1 year) and as Data Scientist in digital agency (1 year too - Current position as block release training)
+  - 📄Current working as data engineer on Agritech company after one year as data scientist in Marketing agency.
  </div>
  
 ---
 <div id="tools">
-  <h3>🔧 Languages and Tools :</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <h3>🔧 Skills & Tools :</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 </div>
 
 ---
