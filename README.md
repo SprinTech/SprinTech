@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/julienvansteenkiste">
     <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://kaggle.com/julienvansteenkiste">
-    <img src="https://img.shields.io/badge/Kaggle-orange?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
-  </a>
 </div>
 
 <div id="stats" align="center">
@@ -17,19 +14,6 @@
 
 <h1 align="center">Hey there👋, I'm Julien Vansteenkiste</h1>
 <h3 align="center">Data Engineer</h3>
-
----
-<div id="about">
-  <h3>🙋‍♂️ About Me :</h3>
-  
-  - 🌱 I’m currently improving my skills with timeseries database using <strong>MongoDB</strong> and <strong>Timescale</strong>.
-  
-  - Working on streaming data architecture with <strong>MQTT</strong>, <strong>Kafka</strong> and <strong>ElasticSearch</strong>.
-    
-  - 📫 How to reach me **jvansteenkiste2@gmail.com**
-  
-  - 📄Current working as data engineer on Agritech company after one year as data scientist in Marketing agency.
- </div>
  
 ---
 <div id="tools">
